@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋, I am Regi Apriandi⚡
+### Undergraduate student from Indonesia, majoring in informatics engineering in the sixth semester.
+#
+![](https://komarev.com/ghpvc/?username=regiapriandi012&style=flat)
 
-<!--
-**regiapriandi012/regiapriandi012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently Student at ITTP
+- 🌱 I’m currently learning Python, Networking, DevOps, Raspberry Pi, Machine Learning
+- 👯 I'm currently writing blog at medium https://regiapriandi.me/
+- 🤔 Looking for my Likedin https://www.linkedin.com/in/regiapriandi/
+- 🌏 Looking for my Page and Photography https://about.regiapriandi.me/
+- 📫 How to reach me: regiapriandi024@gmail.com
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=regiapriandi012)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Udergraduate student, majoring in informatics engineering in the sixth semester.
 - 🌱 I’m currently learning Programing, Networking, DevOps, Raspberry Pi, and Machine Learning.
-- 👯 I'm currently writing blog at medium https://regiapriandi.me/
+- ✒️ I'm currently writing blog at medium https://regiapriandi.me/
 - 🤔 Looking for my Likedin https://www.linkedin.com/in/regiapriandi/
 - 🌏 Looking for my Page and Photography https://about.regiapriandi.me/
 - 📫 How to reach me: regiapriandi024@gmail.com

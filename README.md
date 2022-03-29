@@ -9,17 +9,15 @@
 
 ![](https://komarev.com/ghpvc/?username=regiapriandi012&style=flat)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=regiapriandi012&show_icons=true&locale=en&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=regiapriandi012)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=regiapriandi012&show_icons=true&locale=en&layout=compact)
 
 ### **See my Blogs on Medium:**
 
-- [Mengklasifikasi Tweet Tentang Ecommerce di Indonesia Dengan Penerapan Naive Bayes Classifier](https://medium.com/data-folks-indonesia/mengklasifikasi-tweet-tentang-ecommerce-di-indonesia-dengan-penerapan-naive-bayes-classifier-be2e20ab14a2)
-- [Prediksi kasus harian Covid-19 Indonesia dengan penerapan Algoritma Linear Regression](https://medium.com/data-folks-indonesia/prediksi-kasus-harian-covid-19-indonesia-dengan-penerapan-machine-learning-linear-regression-29e01335a27)
-- [Sistem Pemblokiran Iklan Dan Malware Yang Terintegrasi Di Jaringan Lokal Dengan Penerapan Raspberry Pi](https://regiapriandi.me/sistem-pemblokiran-iklan-dan-malware-yang-terintegrasi-di-jaringan-lokal-dengan-penerapan-rasperry-198257632e82)
-- [How I make about $140 from Writing](https://regiapriandi012.medium.com/how-i-make-about-140-from-writing-fe80e02f22)
-- [Treasure Is In Your Campus Email](https://regiapriandi012.medium.com/treasure-is-in-your-campus-email-10008cb80116)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/2" alt="Recent Article 2"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/7" alt="Recent Article 7"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/0" alt="Recent Article 0"> 
 
 ### **Follow me on Social Media:**
 

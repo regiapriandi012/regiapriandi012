@@ -15,9 +15,10 @@
 
 ### **See my Blogs on Medium:**
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/2" alt="Recent Article 2"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/7" alt="Recent Article 7"> 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@regiapriandi012/0" alt="Recent Article 0"> 
+- [Mengklasifikasi Tweet Tentang Ecommerce di Indonesia Dengan Penerapan Naive Bayes Classifier](https://medium.com/data-folks-indonesia/mengklasifikasi-tweet-tentang-ecommerce-di-indonesia-dengan-penerapan-naive-bayes-classifier-be2e20ab14a2)
+- [Prediksi kasus harian Covid-19 Indonesia dengan penerapan Algoritma Linear Regression](https://medium.com/data-folks-indonesia/prediksi-kasus-harian-covid-19-indonesia-dengan-penerapan-machine-learning-linear-regression-29e01335a27)
+- [Treasure Is In Your Campus Email](https://regiapriandi.me/treasure-is-in-your-campus-email-10008cb80116)
+- [How I make about $140 from Writing](https://regiapriandi.me/how-i-make-about-140-from-writing-fe80e02f22)
 
 ### **Follow me on Social Media:**
 

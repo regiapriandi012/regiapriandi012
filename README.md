@@ -11,8 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=regiapriandi012)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=regiapriandi012&show_icons=true&locale=en&layout=compact)
-
 ### **See my Blogs on Medium:**
 
 - [Mengklasifikasi Tweet Tentang Ecommerce di Indonesia Dengan Penerapan Naive Bayes Classifier](https://medium.com/data-folks-indonesia/mengklasifikasi-tweet-tentang-ecommerce-di-indonesia-dengan-penerapan-naive-bayes-classifier-be2e20ab14a2)

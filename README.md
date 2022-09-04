@@ -1,7 +1,5 @@
-# Hi there 👋, I am Regi Apriandi⚡
+# Regi Apriandi
 
-- 🔭 I’m currently Udergraduate student, majoring in informatics engineering in the sixth semester.
-- 🌱 I’m currently learning Programing, Networking, DevOps, Raspberry Pi, and Machine Learning.
 - ✒️ I'm currently writing blog at https://regiapriandi.me/blog
 - 🤔 Looking for my Likedin https://www.linkedin.com/in/regiapriandi/
 - 🌏 Looking for my Page and Photography https://regiapriandi.me/

@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=regiapriandi012&style=flat)
 
+![](https://streak-stats.demolab.com/?user=regiapriandi012&theme=default)
+
 ![](https://github-readme-stats.vercel.app/api?username=regiapriandi012)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=regiapriandi012&show_icons=true&locale=en&layout=compact)

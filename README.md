@@ -27,8 +27,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=regiapriandi012&show_icons=true&theme=transparent)
 
-[![wakatime](https://wakatime.com/badge/user/23f29706-1f3e-4ea3-80cb-d4c493d7b581.svg)](https://wakatime.com/@23f29706-1f3e-4ea3-80cb-d4c493d7b581)
-
 ### **See my Blogs on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)**
 
 - [Mengklasifikasi Tweet Tentang Ecommerce di Indonesia Dengan Penerapan Naive Bayes Classifier](https://medium.com/data-folks-indonesia/mengklasifikasi-tweet-tentang-ecommerce-di-indonesia-dengan-penerapan-naive-bayes-classifier-be2e20ab14a2)

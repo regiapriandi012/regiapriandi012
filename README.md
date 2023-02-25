@@ -25,7 +25,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## 
 
-![](https://github-readme-stats.vercel.app/api?username=regiapriandi012&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=regiapriandi012&show_icons=true&theme=dark)
 
 ### **See my Blogs on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)**
 

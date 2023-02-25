@@ -6,7 +6,7 @@
 - 📫 How to reach me: regiapriandi024@gmail.com
 ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=regiapriandi012&theme=onedark)](https://github.com/regiapriandi012/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=regiapriandi012&theme=onedark)](https://github.com/regiapriandi012/)
 
 ## Currently learn
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

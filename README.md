@@ -1,5 +1,5 @@
 # Regi Apriandi
-
+<!--
 - ✒️ I'm currently writing blog at https://regiapriandi.me/blog
 - 🤔 Looking for my Likedin https://www.linkedin.com/in/regiapriandi/
 - 🌏 Looking for my Page and Photography https://regiapriandi.me/
@@ -18,10 +18,11 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ##
-
+-->
 
 ![](https://github-readme-stats.vercel.app/api?username=regiapriandi012&show_icons=true&theme=dark)
 
+<!--
 ### **See my Blogs on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)**
 
 - [Mengklasifikasi Tweet Tentang Ecommerce di Indonesia Dengan Penerapan Naive Bayes Classifier](https://medium.com/data-folks-indonesia/mengklasifikasi-tweet-tentang-ecommerce-di-indonesia-dengan-penerapan-naive-bayes-classifier-be2e20ab14a2)
@@ -31,3 +32,4 @@
 
 ## 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c80595539677&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+-->

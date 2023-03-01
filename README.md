@@ -1,26 +1,4 @@
-<h1 align="center">
-  <span style="color: #ff8c00">L</span>
-  <span style="color: #ffbb00">e</span>
-  <span style="color: #ffee00">t</span>
-  <span style="color: #ccff00">'</span>
-  <span style="color: #00ff00">s</span>
-  &nbsp;
-  <span style="color: #00bfff">C</span>
-  <span style="color: #1e90ff">o</span>
-  <span style="color: #4169e1">n</span>
-  <span style="color: #7b68ee">t</span>
-  <span style="color: #9400d3">r</span>
-  <span style="color: #ff1493">i</span>
-  <span style="color: #ff4500">b</span>
-  <span style="color: #ff8c00">u</span>
-  <span style="color: #ffbb00">t</span>
-  <span style="color: #ffee00">e</span>
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribute-Now-green?style=for-the-badge">
-</p>
-
+<h1 align="center">Let's Contribute</h1>
 
 <!--
 # Regi Apriandi
